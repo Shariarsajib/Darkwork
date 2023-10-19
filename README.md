@@ -39,7 +39,7 @@ python Dwork.py
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
-<li>EvilCorp-X Will Never Be Responsible For Any Misuse</li>
+<li>Shariarsajib Will Never Be Responsible For Any Misuse</li>
 <li>Use It At Your Own Risk</li>
 
 
