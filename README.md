@@ -35,7 +35,11 @@ pip install rich
 pip install bs4
 python Dwork.py
 ```
-## Password: 7110@#$
+``` Tool Password
+password: Dark011
+tool username: v
+tool password: k
+
 
 ## Note:
 <li>This Tool Is Only For Educational Purpose</li>
