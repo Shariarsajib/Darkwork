@@ -36,9 +36,8 @@ pip install bs4
 python Dwork.py
 ```
 
-### Pasword's
+### Tool Pasword's
 ``` shell script
-Tool Password
 password: Dark011
 tool username: v
 tool password: k
