@@ -34,8 +34,9 @@ pip2 install requests
 pip install rich
 pip install bs4
 python Dwork.py
+```
 
-``` Tool Password
+Tool Password
 password: Dark011
 tool username: v
 tool password: k
